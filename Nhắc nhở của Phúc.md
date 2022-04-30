@@ -10,7 +10,6 @@ _ Quỳnh :
     + Tìm kiếm tài liệu
     + Cấp quyền truy cập
     + Xem lịch sử
-    + Thêm xóa sửa tài liệu
 _ Mai : 
     + Phàn đăng kí
     + Xem tài khoản 
