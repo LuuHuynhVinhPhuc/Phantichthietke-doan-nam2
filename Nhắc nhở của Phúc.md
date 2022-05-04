@@ -11,10 +11,35 @@ _ Quỳnh :
     + Cấp quyền truy cập
     + Xem lịch sử
 _ Mai : 
-    + Phàn đăng kí
+    + Phần đăng kí
     + Xem tài khoản 
-    + Xem thống kê lịch sử truy cập hệ thống / tài liệu
+    + Xem thống kê lịch sử truy cập tài liệu
     + Thêm xóa sửa tài liệu
     
 _ Mô tả đầy đủ, sai thì chắc chắn có rồi nên cứ làm đi tui k biết tui nhận xét có đúng hay k nữa có gì mình sẽ hỏi cô nha nếu như tui k chắc 
-_ DEADLINE : t7 tuần này phải xong nha thời gian dư giả r đó 
+
+_ Activity diagram : 
+    + Lưu lịch sử tìm kiếm 
+    + Lưu lịch sử truy cập
+    + Xem tài liệu
+    + Tải tài liệu
+    + In tài liệu
+    + Tổng hợp danh sách tìm kiếm 
+    + Feedback tài liệu khi bị lỗi
+    + Feedback tài liệu khi không tìm thấy 
+    + Xóa tài khoản 
+    + Thống kê lịch sử truy cập hệ thống
+    
+_ Tui vừa update thêm phần activity nha mng xem trước nha rất nhiều trên mạng nhá
+
+_ Đã phân công
+Mai: 
+- Feedback tài liệu khi bị lỗi
+- Xem tài liệu
+- Thống kê lịch sử truy cập hệ thống
+Quỳnh:
+- Feedback tài liệu khi không tìm thấy 
+- Tải tài liệu
+Còn lại Phúc làm oke :>
+
+
