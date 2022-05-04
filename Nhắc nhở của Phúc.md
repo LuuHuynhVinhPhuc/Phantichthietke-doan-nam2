@@ -13,7 +13,7 @@ _ Quỳnh :
 _ Mai : 
     + Phần đăng kí
     + Xem tài khoản 
-    + Xem thống kê lịch sử truy cập tài liệu
+    + Xem thống kê lịch sử truy cập hệ thống
     + Thêm xóa sửa tài liệu
     
 _ Mô tả đầy đủ, sai thì chắc chắn có rồi nên cứ làm đi tui k biết tui nhận xét có đúng hay k nữa có gì mình sẽ hỏi cô nha nếu như tui k chắc 
@@ -28,7 +28,7 @@ _ Activity diagram :
     + Feedback tài liệu khi bị lỗi
     + Feedback tài liệu khi không tìm thấy 
     + Xóa tài khoản 
-    + Thống kê lịch sử truy cập hệ thống
+    + Thống kê lịch sử truy cập tài liệu
     
 _ Tui vừa update thêm phần activity nha mng xem trước nha rất nhiều trên mạng nhá
 
@@ -36,7 +36,7 @@ _ Đã phân công
 Mai: 
 - Feedback tài liệu khi bị lỗi
 - Xem tài liệu
-- Thống kê lịch sử truy cập hệ thống
+- Thống kê lịch sử truy cập tài liệu
 Quỳnh:
 - Feedback tài liệu khi không tìm thấy 
 - Tải tài liệu
