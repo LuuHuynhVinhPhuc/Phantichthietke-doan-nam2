@@ -21,14 +21,14 @@ _ Mô tả đầy đủ, sai thì chắc chắn có rồi nên cứ làm đi tui
 _ Activity diagram : 
     + Lưu lịch sử tìm kiếm 
     + Lưu lịch sử truy cập
-    + Xem tài liệu
-    + Tải tài liệu
+    - Xem tài liệu
+    - Tải tài liệu
     + In tài liệu
     + Tổng hợp danh sách tìm kiếm 
-    + Feedback tài liệu khi bị lỗi
-    + Feedback tài liệu khi không tìm thấy 
+    - Feedback tài liệu khi bị lỗi
+    - Feedback tài liệu khi không tìm thấy 
     + Xóa tài khoản 
-    + Thống kê lịch sử truy cập tài liệu
+    - Thống kê lịch sử truy cập tài liệu
     
 _ Tui vừa update thêm phần activity nha mng xem trước nha rất nhiều trên mạng nhá
 
